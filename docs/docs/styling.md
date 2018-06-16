@@ -121,7 +121,7 @@ Navigation.mergeOptions(this.props.componentId, {
     tabColor: 'red',
     selectedTabColor: 'blue',
     fontFamily: 'Helvetica',
-    fontSize: 10
+    fontSize: 10 // iOS only
   },
   bottomTab: {
     title: 'Tab 1',
